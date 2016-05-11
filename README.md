@@ -1,1 +1,3 @@
 # Test-Game
+ - HOLA
+ - MUNDO
